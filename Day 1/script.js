@@ -14,7 +14,9 @@ function sortedSquared(array){
 a=[1,2,3,4,5]
 b=[-3,-7,-2,8,24]
 c=[]
+d=[-4,-1,0,3,10]
 
 console.log(sortedSquared(a));
 console.log(sortedSquared(b));
 console.log(sortedSquared(c));
+console.log(sortedSquared(d));
